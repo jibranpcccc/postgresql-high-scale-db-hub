@@ -4,10 +4,17 @@
     <title>PostgreSQL &amp; High-Scale Database Hub</title>
     <link>https://postgresql-high-scale-db-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 06:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:18:33 GMT</lastBuildDate>
     <atom:link href="https://postgresql-high-scale-db-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                        <item>
+                            <item>
+      <title>📅 Today's Fresh Pick: r/PostgreSQL High Performance DBAs (Reddit)</title>
+      <link>https://www.reddit.com/r/PostgreSQL/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/postgresql-high-scale-db-hub/#postgresql-high-scale-db-hub-reddit-20260915-1-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 11:18:33 GMT</pubDate>
+      <description>Newly verified community added to Postgresql High Scale Db Hub: The primary forum for PostgreSQL database administrators, query tuning, EXPLAIN ANALYZE, vacuuming strategies, and high-availability clustering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Devcord Web Developers (Discord)</title>
       <link>https://discord.gg/devcord</link>
       <guid isPermaLink="false">https://postgresql-high-scale-db-hub.netlify.app/#postgresql-high-scale-db-hub-discord-20260915-1-2026-09-15</guid>

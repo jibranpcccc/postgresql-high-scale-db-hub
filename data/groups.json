@@ -1,17 +1,17 @@
 [
   {
-    "id": "postgresql-high-scale-db-hub-discord-20260915-1",
-    "title": "Devcord Web Developers",
-    "platform": "Discord",
-    "category": "Web Development",
-    "memberCount": "48,000+ members",
-    "description": "Friendly web development and programming community covering modern web stacks, design, and career growth.",
-    "joinUrl": "https://discord.gg/devcord",
+    "id": "postgresql-high-scale-db-hub-reddit-20260915-1",
+    "title": "r/PostgreSQL High Performance DBAs",
+    "platform": "Reddit",
+    "category": "PostgreSQL Engineering",
+    "memberCount": "72,000+ members",
+    "description": "The primary forum for PostgreSQL database administrators, query tuning, EXPLAIN ANALYZE, vacuuming strategies, and high-availability clustering.",
+    "joinUrl": "https://www.reddit.com/r/PostgreSQL/",
     "tags": [
-      "webdev",
-      "discord",
-      "fullstack",
-      "design"
+      "postgresql",
+      "database",
+      "dba",
+      "reddit"
     ],
     "verified": true,
     "featured": true,
