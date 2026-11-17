@@ -4,10 +4,17 @@
     <title>PostgreSQL &amp; High-Scale Database Hub</title>
     <link>https://postgresql-high-scale-db-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 16 Nov 2026 07:22:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:50:40 GMT</lastBuildDate>
     <atom:link href="https://postgresql-high-scale-db-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://postgresql-high-scale-db-hub.netlify.app/#postgresql-high-scale-db-hub-forum-20261015-1-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 06:50:40 GMT</pubDate>
+      <description>Newly verified community added to PostgreSQL &amp; High-Scale Database Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://postgresql-high-scale-db-hub.netlify.app/#postgresql-high-scale-db-hub-forum-20261015-1-2026-11-16</guid>
@@ -173,13 +180,6 @@
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://postgresql-high-scale-db-hub.netlify.app/#postgresql-high-scale-db-hub-forum-20261015-1-2026-10-17</guid>
       <pubDate>Sat, 17 Oct 2026 06:04:34 GMT</pubDate>
-      <description>Newly verified community added to PostgreSQL &amp; High-Scale Database Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
-      <link>https://news.ycombinator.com</link>
-      <guid isPermaLink="false">https://postgresql-high-scale-db-hub.netlify.app/#postgresql-high-scale-db-hub-forum-20261015-1-2026-10-16</guid>
-      <pubDate>Fri, 16 Oct 2026 06:04:42 GMT</pubDate>
       <description>Newly verified community added to PostgreSQL &amp; High-Scale Database Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
     </item>
   </channel>
